@@ -1,0 +1,15 @@
+/Users/mohamed/Projects/UIR/SRP/bin/Debug/net7.0/SRP
+/Users/mohamed/Projects/UIR/SRP/bin/Debug/net7.0/SRP.deps.json
+/Users/mohamed/Projects/UIR/SRP/bin/Debug/net7.0/SRP.runtimeconfig.json
+/Users/mohamed/Projects/UIR/SRP/bin/Debug/net7.0/SRP.dll
+/Users/mohamed/Projects/UIR/SRP/bin/Debug/net7.0/SRP.pdb
+/Users/mohamed/Projects/UIR/SRP/obj/Debug/net7.0/SRP.csproj.AssemblyReference.cache
+/Users/mohamed/Projects/UIR/SRP/obj/Debug/net7.0/SRP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/Projects/UIR/SRP/obj/Debug/net7.0/SRP.AssemblyInfoInputs.cache
+/Users/mohamed/Projects/UIR/SRP/obj/Debug/net7.0/SRP.AssemblyInfo.cs
+/Users/mohamed/Projects/UIR/SRP/obj/Debug/net7.0/SRP.csproj.CoreCompileInputs.cache
+/Users/mohamed/Projects/UIR/SRP/obj/Debug/net7.0/SRP.dll
+/Users/mohamed/Projects/UIR/SRP/obj/Debug/net7.0/refint/SRP.dll
+/Users/mohamed/Projects/UIR/SRP/obj/Debug/net7.0/SRP.pdb
+/Users/mohamed/Projects/UIR/SRP/obj/Debug/net7.0/SRP.genruntimeconfig.cache
+/Users/mohamed/Projects/UIR/SRP/obj/Debug/net7.0/ref/SRP.dll

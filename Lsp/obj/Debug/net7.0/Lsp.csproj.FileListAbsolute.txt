@@ -1,0 +1,15 @@
+/Users/mohamed/Projects/UIR/Lsp/bin/Debug/net7.0/Lsp
+/Users/mohamed/Projects/UIR/Lsp/bin/Debug/net7.0/Lsp.deps.json
+/Users/mohamed/Projects/UIR/Lsp/bin/Debug/net7.0/Lsp.runtimeconfig.json
+/Users/mohamed/Projects/UIR/Lsp/bin/Debug/net7.0/Lsp.dll
+/Users/mohamed/Projects/UIR/Lsp/bin/Debug/net7.0/Lsp.pdb
+/Users/mohamed/Projects/UIR/Lsp/obj/Debug/net7.0/Lsp.csproj.AssemblyReference.cache
+/Users/mohamed/Projects/UIR/Lsp/obj/Debug/net7.0/Lsp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/Projects/UIR/Lsp/obj/Debug/net7.0/Lsp.AssemblyInfoInputs.cache
+/Users/mohamed/Projects/UIR/Lsp/obj/Debug/net7.0/Lsp.AssemblyInfo.cs
+/Users/mohamed/Projects/UIR/Lsp/obj/Debug/net7.0/Lsp.csproj.CoreCompileInputs.cache
+/Users/mohamed/Projects/UIR/Lsp/obj/Debug/net7.0/Lsp.dll
+/Users/mohamed/Projects/UIR/Lsp/obj/Debug/net7.0/refint/Lsp.dll
+/Users/mohamed/Projects/UIR/Lsp/obj/Debug/net7.0/Lsp.pdb
+/Users/mohamed/Projects/UIR/Lsp/obj/Debug/net7.0/Lsp.genruntimeconfig.cache
+/Users/mohamed/Projects/UIR/Lsp/obj/Debug/net7.0/ref/Lsp.dll

@@ -1,0 +1,15 @@
+/Users/mohamed/Projects/UIR/Ocp/obj/Debug/net7.0/Ocp.csproj.AssemblyReference.cache
+/Users/mohamed/Projects/UIR/Ocp/obj/Debug/net7.0/Ocp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/Projects/UIR/Ocp/obj/Debug/net7.0/Ocp.AssemblyInfoInputs.cache
+/Users/mohamed/Projects/UIR/Ocp/obj/Debug/net7.0/Ocp.AssemblyInfo.cs
+/Users/mohamed/Projects/UIR/Ocp/obj/Debug/net7.0/Ocp.csproj.CoreCompileInputs.cache
+/Users/mohamed/Projects/UIR/Ocp/bin/Debug/net7.0/Ocp
+/Users/mohamed/Projects/UIR/Ocp/bin/Debug/net7.0/Ocp.deps.json
+/Users/mohamed/Projects/UIR/Ocp/bin/Debug/net7.0/Ocp.runtimeconfig.json
+/Users/mohamed/Projects/UIR/Ocp/bin/Debug/net7.0/Ocp.dll
+/Users/mohamed/Projects/UIR/Ocp/bin/Debug/net7.0/Ocp.pdb
+/Users/mohamed/Projects/UIR/Ocp/obj/Debug/net7.0/Ocp.dll
+/Users/mohamed/Projects/UIR/Ocp/obj/Debug/net7.0/refint/Ocp.dll
+/Users/mohamed/Projects/UIR/Ocp/obj/Debug/net7.0/Ocp.pdb
+/Users/mohamed/Projects/UIR/Ocp/obj/Debug/net7.0/Ocp.genruntimeconfig.cache
+/Users/mohamed/Projects/UIR/Ocp/obj/Debug/net7.0/ref/Ocp.dll
